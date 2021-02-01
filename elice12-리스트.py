@@ -13,7 +13,7 @@ print(enumlist)
 
 print(listdata.index(2))
 
-
+  
 
 
 ### 리스트에서 특정 요소의 위치 구하기 
