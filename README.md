@@ -1,5 +1,4 @@
-# python study
-Python  (’25.1.5 ~ )
+# python 데이터 분석 및 시각화 (’25.1.5 ~ )
 $pip3 install pandas 
 $jupyter notebook 
 
