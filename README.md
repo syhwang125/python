@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=PjhlUzp_cU0
 
 
 
-# opc-ua (2024-04-07)
+# opc-ua ('24.4.7)
 https://www.youtube.com/watch?v=1x39xEQ8Vgw
 https://apmonitor.com/dde/index.php/Main/OPCTransfer 
 
